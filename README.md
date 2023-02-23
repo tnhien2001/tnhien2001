@@ -1,4 +1,5 @@
-# Hi there 👋  I'm Trinh Ngoc Hien and I'm a junior students at VNUHCM - University of Science.
+### Hi there 👋  I'm Trinh Ngoc Hien 
+### I'm a junior students at VNUHCM - University of Science.
 
 
 ## About Me
