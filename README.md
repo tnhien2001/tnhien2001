@@ -1,6 +1,5 @@
 ### Hi there 👋,  I'm Trinh Ngoc Hien 
-### I'm a junior students at VNUHCM - University of Science.
-
+### I recently graduated from the University of Sciences in Ho Chi Minh City with a bachelor's degree in Mathematics and Computer Science. 
 
 # About Me ✌️
 - 🌱 I’m currently learning Artificial Intelligence about Machine Learning and I'm also learning Database (SQL Server), Python,...
